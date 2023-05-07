@@ -22,15 +22,6 @@
 <br />
 <br />
 
-### 🎵 Now Playing
-  
-<div align="center" width="100%">
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/r9hz022p6m715kz391p7uvwio)
-
-  </div>
-  <br/>
-
 <div align="center">
 	<a href="https://git.io/streak-stats" target="_blank">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=DedeKurnn&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" width="42.5%"/>
