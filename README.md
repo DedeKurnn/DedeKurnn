@@ -5,10 +5,9 @@
 ## <img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/> Hey, I'm <a href="https://aakarsh.me" target="_blank">Dede </a>!
 
 ### ✨ About me :
-- 1st year Informatics Student at Lampung University.
+- 2nd year Informatics Student at Lampung University.
 - Graduated Computer and Network Engineering Student at SMK Negeri 1 Talangpadang.
-- Computer Network Student intern at <a href="https://stcpringsewu.blogspot.com/" target="_blank">Starcom Pringsewu</a>.
-- Interested in Kotlin especially Android Development.
+- Interested in UI/UX design and web development
 
 ### 🌐 Click down below to reach me ;)
 
