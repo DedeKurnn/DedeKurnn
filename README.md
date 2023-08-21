@@ -5,7 +5,7 @@
 ## <img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/> Hey, I'm <a href="https://aakarsh.me" target="_blank">Dede </a>!
 
 ### ✨ About me :
-- 2nd year Informatics Student at Lampung University.
+- 3rd year Informatics Student at Lampung University.
 - Graduated Computer and Network Engineering Student at SMK Negeri 1 Talangpadang.
 - Interested in UI/UX design and web development
 
