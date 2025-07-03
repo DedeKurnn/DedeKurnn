@@ -4,11 +4,11 @@
 
 - 🔭 Actively maintaining [Lamban Bahasa](https://lambanbahasa.com)
 
-- 🌱 currently learning **Golang** and **Godot**
+- 🌱 currently learning **Godot**
 
 - 👨‍💻 All of my projects are available at [dedekurnn.my.id](dedekurnn.my.id)
 
-- 💬 Ask me about **React, Qwik, and JS/TS Ecosystem**
+- 💬 Ask me about **React, Qwik, Next.js, Svelte and JS/TS Ecosystem**
 
 - 📫 How to reach me **dedekurnn@outlook.com**
 
